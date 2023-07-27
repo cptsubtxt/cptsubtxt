@@ -4,7 +4,7 @@
 
 ## tech { 'Container | Automation | Cloud | Systemengineering | Scripting' }
 
-- 🌱 I’m currently learning Kubernetes, Go and improve python 🤣
+- 🌱 I’m currently learning Kubernetes, JavaScript and improve python 🤣
 - 👯 I’m looking to collaborate with other content learners/seekers/creators
 - 🥅 2021/2022 Goals: 
     - Contribute more to Open Source projects
