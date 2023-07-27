@@ -10,7 +10,7 @@
     - Contribute more to Open Source projects
     - Certify as a CKA
     - Improve python skills
-    - Learn Golang
+    - Learn JavaScript / ReactNative / React
 - ⚡ Fun fact: I love hiking the world, most often the black wood forrest
 
 <!---
