@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning Kubernetes, JavaScript and improve python 🤣
 - 👯 I’m looking to collaborate with other content learners/seekers/creators
-- 🥅 2021/2022 Goals: 
+- 🥅 2023/2024 Goals: 
     - Contribute more to Open Source projects
-    - Certify as a CKA
+    - Improve in Cloud Engineering (Azure)
     - Improve python skills
     - Learn JavaScript / ReactNative / React
 - ⚡ Fun fact: I love hiking the world, most often the black wood forrest
