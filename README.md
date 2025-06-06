@@ -4,12 +4,12 @@
 
 ## tech { 'Container | Automation | Cloud | Systemengineering | Scripting' }
 
-- 🌱 I’m currently learning Kubernetes, JavaScript and improve python 🤣
+- 🌱 I’m currently learning Cybersecurity, Kubernetes and improve JavaScript, python 🤣
 - 👯 I’m looking to collaborate with other content learners/seekers/creators
-- 🥅 2023/2024 Goals: 
+- 🥅 2025/2026 Goals: 
     - Contribute more to Open Source projects
-    - Improve in Cloud Engineering (Azure)
-    - Improve python skills
+    - Improve in Cybersecurity field
+    - Improve JS and Python skills
     - Learn JavaScript / ReactNative / React
 - ⚡ Fun fact: I love hiking the world, most often the black wood forrest
 
